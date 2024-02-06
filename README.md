@@ -1,9 +1,8 @@
 # PalWorld-NetCrack  
-This is the PalWorld network cracking framework  
-modifying player data in the Player tab  
-Network cracking in the Exploit tab  
+> [!Note]
+> **THIS IS THE STEAMDECK VERSION**
+## 
 
-## NOTE: THIS IS THE STEAMDECK VERSION  
 
 ### FEATURES
 - Infinite Ammo  
